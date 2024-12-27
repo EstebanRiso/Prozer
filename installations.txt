@@ -1,0 +1,7 @@
+beautifulsoup
+selenium
+pydantic
+fastapi 
+uvicorn
+transformers
+python-dotenv

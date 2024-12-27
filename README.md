@@ -1,1 +1,6 @@
-# Prozer
+-coloque pip install installations.txt para descargar las librerias de python
+-cree una cuenta de hugging_face y guarde su api key y reemplazelo en la variable HUGGING_FACE_API_KEY de download.py
+-ejecute primero download.py para descargar el modelo de hugging face 
+-ejecute main.py
+-vaya a localhost:8000/docs y vera una interfaz grafica proveida por swagger de FastAPI
+-haga las calls tal como salen en los posts
